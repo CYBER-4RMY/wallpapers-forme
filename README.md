@@ -192,7 +192,7 @@ GifWallpapers/
 
 📷 **Preview**
 <p align="center">
-  <img src="GifWallpapers/preview.gif" width="240"/>
+  <img width="3840" height="2160" alt="sakura_pixelart_light_animated" src="https://github.com/user-attachments/assets/1b22f8a2-053a-4a74-8128-a296d0ec625e" />
 </p>
 
 ---
