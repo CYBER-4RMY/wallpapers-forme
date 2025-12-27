@@ -102,9 +102,7 @@ JetPlane/
 
 📷 **Preview**
 <p align="center">
-  <img src="Astronaut/preview.jpg" width="240"/>
-  <img src="Blackhole/preview.jpg" width="240"/>
-  <img src="Space/preview.jpg" width="240"/>
+  <img width="2912" height="1632" alt="airplane-flying-through-stormy-clouds" src="https://github.com/user-attachments/assets/6dbaa4e6-a18e-4ee1-bda0-a2f1ae723a10" />
 </p>
 
 ---
@@ -125,9 +123,7 @@ WallHaven/
 
 📷 **Preview**
 <p align="center">
-  <img src="CityEscape/preview.jpg" width="240"/>
-  <img src="Cars/preview.jpg" width="240"/>
-  <img src="Linux/preview.jpg" width="240"/>
+  <img width="1920" height="1080" alt="6tbvslf4nbwc1" src="https://github.com/user-attachments/assets/ed965654-3069-45b3-859e-86b1c5714a65" />
 </p>
 
 ---
@@ -144,7 +140,7 @@ Animal/
 
 📷 **Preview**
 <p align="center">
-  <img src="Animal/preview.jpg" width="240"/>
+  <img width="1920" height="1080" alt="gruvbox-lion-poi" src="https://github.com/user-attachments/assets/6e46cf62-3ff8-4a94-aa53-a57356210a7f" />
 </p>
 
 ---
@@ -162,8 +158,7 @@ FullChili/
 
 📷 **Preview**
 <p align="center">
-  <img src="Cappuccin/preview.jpg" width="240"/>
-  <img src="FullChili/preview.jpg" width="240"/>
+  <img width="3840" height="2160" alt="CatppuccinMocha-Kurzgesagt-CloudyQuasar1" src="https://github.com/user-attachments/assets/cdd72221-2eca-4d38-8b23-00e44738b43b" />
 </p>
 
 ---
@@ -180,7 +175,7 @@ MyCapture/
 
 📷 **Preview**
 <p align="center">
-  <img src="MyCapture/preview.jpg" width="240"/>
+  <img width="3840" height="2160" alt="2025-12-27-201910" src="https://github.com/user-attachments/assets/2b9154c7-dc8e-4d7d-92f6-48cd60e0cc33" />
 </p>
 
 ---
