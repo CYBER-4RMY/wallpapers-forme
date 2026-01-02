@@ -1,0 +1,7 @@
+How to setup the Simple-red sddm theme to your sddm theme.
+
+Just copy the 'simple-red' folder to the '/usr/share/sddm/themes' folder and you all set
+
+command -> sudo cp -r simple-red/ /usr/share/sddm/themes
+
+All set you are ready to go and when you open settings and go to sddm section there you can se the theme will appear
