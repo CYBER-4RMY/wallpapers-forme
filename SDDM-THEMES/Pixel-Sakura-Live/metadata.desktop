@@ -1,6 +1,6 @@
 [SddmGreeterTheme]
-Name=PixelSakura
-Description=sddm-pixel-sakura-theme
+Name=Pixel-Sakura-Live
+Description=sddm-pixel-sakura-live-theme
 Author=keyitdev
 Website=https://github.com/Keyitdev/sddm-astronaut-theme
 License=GPL-3.0-or-later
@@ -10,6 +10,6 @@ ConfigFile=Themes/pixel_sakura.conf
 Screenshot=Previews/astronaut.png
 MainScript=Main.qml
 TranslationsDirectory=translations
-Theme-Id=sddm-pixel-sakura-theme
+Theme-Id=sddm-pixel-sakura-live-theme
 Theme-API=2.0
 QtVersion=6
